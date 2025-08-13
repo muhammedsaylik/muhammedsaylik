@@ -113,7 +113,7 @@ Additionally, leveraging artificial intelligence and automation technologies to 
 </p>
 <ul>
   <li>Scikit-learn</li>
-  <li>TensorFlow (learning)</li>
+  <li>TensorFlow</li>
 </ul>
 
 ---
@@ -133,8 +133,8 @@ Additionally, leveraging artificial intelligence and automation technologies to 
   </a>
 </p>
 <ul>
-  <li>MongoDB (basic knowledge)</li>
-  <li>Currently learning SQL (MySQL, PostgreSQL)</li>
+  <li>MongoDB</li>
+  <li>MySQL, PostgreSQL</li>
 </ul>
 
 
